@@ -1,6 +1,1 @@
-Objective: develop a workbook that automatically calculates quarters and half-years, converts amounts to EUR using monthly exchange rates, correctly handles VAT, and validates input. The workbook should generate pivot tables and a Plan vs Actual comparison with variance highlighting and auto-update when new rows are added to the Fact sheet.
 
-Cel zadania: opracować skoroszyt, który automatycznie oblicza kwartały i półrocza, przelicza kwoty na EUR według miesięcznych kursów, poprawnie obsługuje VAT i weryfikuje dane wejściowe. Skoroszyt ma tworzyć tabele przestawne oraz porównanie Plan vs Wykonanie z podświetleniem odchyleń i automatycznie odświeżać się po dodaniu nowych wierszy w arkuszu Fact.
-
-Project
-https://docs.google.com/spreadsheets/d/1ly4FeXtcf4stEjREvenbIaa2Kkw17HMf9ayxQr2K6zw/edit?gid=1067013800#gid=1067013800
