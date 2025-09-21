@@ -1,0 +1,32 @@
+What is this project?
+
+Financial analytics + budgeting (Budget vs Actuals) in Excel with the release of a client reporting package.
+
+Scope of work
+
+We built a Plan (budget) vs Actuals (actual) model for revenue and key cost items (COGS, OPEX).
+
+We performed variance analysis: calculation of Δ = Actual − Plan and Execution Rate = Actual/Plan with a materiality threshold.
+
+We created a KPI dashboard: Revenue Actual Total, Revenue Execution %, delta to plan.
+
+Prepared an Executive Summary: explanation of drivers (price/volume/mix/timing), recommendations, and responsible parties.
+
+Formulated control procedures: tie-out totals (±0.5%), uniform formats, rule for highlighting overspending.
+
+Methodology/metrics
+
+Budget vs Actuals: basic budgeting cycle (Beginner Budgeting) — comparison of plan and actuals on a monthly basis/by CC.
+
+Variance decomposition: identification of deviations in Revenue/COGS and their causes (seasonality/volume, price/mix, logistics surcharges).
+
+Performance KPI: Execution % by revenue ≈ 99.9% (near-plan), Δ — within the acceptable range.
+
+Governance: SLA “EOM + 3”, change log, uniform rounding policy (€ without cents).
+
+Result for stakeholders
+
+1-page PDF package: KPI + Executive Summary (what/why/so-what/next).
+
+
+Translated with DeepL.com (free version)
