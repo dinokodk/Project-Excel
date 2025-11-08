@@ -1,3 +1,6 @@
+Built Google sheet-based templates for standardized reporting and efficient data tracking across departments.
+
+
 What: Google Sheet template Plan vs Fact (budget tracker).
 Why: quick EUR conversion by monthly FX, Q/H calculations, Plan vs Fact comparison.
 How: dropdowns & validation on Fact, VAT excl/incl formulas, pivots + comparison table (Execution %, Δ), auto-update on new rows, error highlighting, Plan sheet protected.
